@@ -1,0 +1,36 @@
+.signin-signup{
+
+  display: flex;
+  justify-content: space-between;
+  width: 90%;
+  margin: 100px auto;
+}
+
+.l-title{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    font-weight: 300;
+    line-height: 1.9;
+}
+
+.l-subtitle{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 17px;
+    font-weight: 300;
+    line-height: 3.7rem;
+}
+
+.login{
+
+    width: 80%;
+    margin-top: 35px;
+    margin-right:100px;
+}
+
+
+.register{
+    margin-top: 35px;
+    width: 80%;
+}

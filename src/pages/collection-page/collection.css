@@ -1,0 +1,20 @@
+
+.collection-page {
+	grid-template-columns: 1fr 1fr 1fr 1fr;
+	display: grid;
+	grid-gap: 15px;
+}
+
+.col-single{
+
+    margin-bottom: 30px;
+}
+
+.col-title{
+
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-size: 35px;
+	font-weight: 400;
+	text-align: center;
+	margin-bottom: 40px;
+}

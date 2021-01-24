@@ -1,0 +1,47 @@
+.card-dropdown{
+
+    width: 280px;
+    height: 340px;
+    border: 1px solid #010101;
+    position: absolute;
+    right: 10px;
+    background-color: #fff;
+   
+    padding: 20px;
+    z-index: 5;
+}
+
+.cart-items{
+    height: 280px;
+    display: flex;
+    flex-direction: column;
+    overflow: scroll;
+    overflow-x: hidden
+}
+
+
+.checkout-btn{
+
+    display: flex;
+	width: 100%;
+	text-align: center;
+	justify-content: center;
+	padding: 13px;
+	background: #f5f5f5;
+	border: none;
+	cursor: pointer;
+	font-size: 15px;
+    font-family: verdana;
+    overflow: hidden;
+    margin-top: 20px;
+    
+    
+
+}
+
+
+.checkout-btn:hover {
+	background: #040404;
+	color: #f5f5f5;
+	transition: 1s all ease;
+}

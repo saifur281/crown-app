@@ -1,0 +1,62 @@
+
+.checkout-page{
+
+    width: 98%;
+    margin: 0 auto;
+}
+
+.checkout-title{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 400;
+    text-align: center;
+    font-size: 24px;
+    margin: 35px 0px;
+}
+
+.row{
+    width: 80%;
+    margin: 50px auto;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid #010101;
+    padding: 10px ;
+}
+
+.h-column{
+
+    width: 25%;
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 400;
+    font-size: 17px;
+}
+
+.h-column:last-child{
+	width: 10%;
+}
+
+.total{
+
+    width: 82%;
+    margin: 50px auto;
+    border-top: 2px solid #010101;
+}
+
+.total-count{
+
+    text-align: right;
+    margin: 10px 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 400;
+    font-size: 35px;
+}
+
+.empty-text {
+	text-align: center;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-size: 18px;
+	color: red;
+	display: flex;
+	justify-content: center;
+}

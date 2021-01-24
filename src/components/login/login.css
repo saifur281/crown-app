@@ -1,0 +1,48 @@
+.google-btn{
+
+    background-color: #010101;
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 15px 20px;
+    cursor: pointer;
+    border: 1px solid #010101;
+    
+}
+.google-btn:hover{
+    background-color: #fff;
+    color: #010101;
+    border: 1px solid #010101
+}
+
+
+.login-btn{
+
+    background-color: #fff;
+    color: #010101;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 15px 20px;
+    cursor: pointer;
+    border: 1px solid #010101;
+    margin-right: 20px;
+
+}
+
+.login-btn:hover{
+    background-color: #010101;
+    color: #fff;
+    border: 1px solid #010101
+}
+
+
+.fab.fa-google {
+	margin-right: 15px;
+	background: #ea4335;
+	padding: 8px;
+	border-radius: 100px;
+}
+
+.btn-container {
+	
+    align-items: center;
+    margin-top: 25px;
+}

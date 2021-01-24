@@ -1,0 +1,15 @@
+
+.title-category{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 35px;
+    font-weight: 400;
+    margin-bottom: 40px;
+   
+}
+.items-container{
+
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 70px;
+}

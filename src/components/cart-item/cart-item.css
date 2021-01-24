@@ -1,0 +1,33 @@
+.cart-item{
+
+    display: flex;
+    margin-bottom: 20px;
+    
+}
+
+.cart-item img{
+
+    width: 90px;
+    height: 90px;
+}
+
+.cart-content{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+}
+
+.i-name,.i-price,.i-quantity{
+
+    font-family: 16px;
+    color: #4a4a4a;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 1.7;
+
+}
+.fas.fa-trash{
+
+    color: red;
+    cursor: pointer;
+
+}

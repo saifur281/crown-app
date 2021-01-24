@@ -1,0 +1,14 @@
+
+.footer{
+
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: #ddd;
+    position: fixed;
+    bottom: 0px;
+    padding: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+   
+}
